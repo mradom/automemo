@@ -1,0 +1,10 @@
+# Base de Datos #
+
+Add your content here.
+
+
+# Details #
+
+La base de datos esta ubicada en el directorio raiz, en la carpeta database.
+Seria ideal que al subir una nueva DB, su nombre tenga el siguiente formato: año mes dia .sql
+Por ejemplo: 20140428.sql
